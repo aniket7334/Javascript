@@ -6,5 +6,5 @@ function factorial(n) {
     return result;
   }
   
-  console.log(factorial(10)); // Output: 3628800
+  console.log(factorial(10)); 
   
