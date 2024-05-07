@@ -10,6 +10,6 @@ for(let i = 0; i < points.length;i++){
       }
       
   }
-  console.log(max);
+  console.log( "print maximum number in array " ,max);
   
 
